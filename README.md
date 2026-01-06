@@ -29,34 +29,6 @@ The project follows a **full analytics workflow**:
 
 ---
 
-## 🗂️ Project Structure
-montco-911-analytics/
-│
-├── data/
-│ └── raw_data_link.txt
-│
-├── src/
-│ ├── init.py
-│ ├── data_cleaning.py
-│ ├── healthcare_utils.py
-│ └── viz_templates.py
-│
-├── notebooks/
-│ ├── 01_cleaning.ipynb
-│ ├── 02_ems_analysis.ipynb
-│ └── 03_final_report.ipynb
-│
-├── reports/
-│ └── figures/
-│
-├── .env
-├── .gitignore
-├── requirements.txt
-├── README.md
-└── LICENSE
-
----
-
 ## 📊 Key KPIs
 - Total number of 911 calls
 - Calls by department (EMS, Fire, Traffic)
