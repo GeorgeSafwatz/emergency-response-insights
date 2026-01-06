@@ -1,0 +1,15 @@
+name: montco-911
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - plotly
+  - jupyterlab
+  - pip
+  - pip:
+    - uszipcode
