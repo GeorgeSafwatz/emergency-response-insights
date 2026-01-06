@@ -12,4 +12,4 @@ dependencies:
   - jupyterlab>=4.0,<5
   - pip
   - pip:
-    - uszipcode>=0.3.0
+    - uszipcode>=0.3.0 
